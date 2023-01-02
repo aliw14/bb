@@ -1,0 +1,15 @@
+/Users/ali/Projects/bb/bb/bin/Debug/net6.0/bb
+/Users/ali/Projects/bb/bb/bin/Debug/net6.0/bb.deps.json
+/Users/ali/Projects/bb/bb/bin/Debug/net6.0/bb.runtimeconfig.json
+/Users/ali/Projects/bb/bb/bin/Debug/net6.0/bb.dll
+/Users/ali/Projects/bb/bb/bin/Debug/net6.0/bb.pdb
+/Users/ali/Projects/bb/bb/obj/Debug/net6.0/bb.csproj.AssemblyReference.cache
+/Users/ali/Projects/bb/bb/obj/Debug/net6.0/bb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Projects/bb/bb/obj/Debug/net6.0/bb.AssemblyInfoInputs.cache
+/Users/ali/Projects/bb/bb/obj/Debug/net6.0/bb.AssemblyInfo.cs
+/Users/ali/Projects/bb/bb/obj/Debug/net6.0/bb.csproj.CoreCompileInputs.cache
+/Users/ali/Projects/bb/bb/obj/Debug/net6.0/bb.dll
+/Users/ali/Projects/bb/bb/obj/Debug/net6.0/refint/bb.dll
+/Users/ali/Projects/bb/bb/obj/Debug/net6.0/bb.pdb
+/Users/ali/Projects/bb/bb/obj/Debug/net6.0/bb.genruntimeconfig.cache
+/Users/ali/Projects/bb/bb/obj/Debug/net6.0/ref/bb.dll
